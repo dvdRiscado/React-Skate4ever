@@ -1,0 +1,20 @@
+Projeto: Skate4ever - Landing Page
+Nome: David Vasconcelos
+
+Histórico de ações:
+	Terminal: mkdir Skate4ever
+		  cd ./Skate4ever
+		  npm create vite .
+		  	Package name: skate4ever
+		  	Framework: React
+		  	Variant: JavaScript
+		  npm install
+		  npm run dev
+
+          git init
+          git add .
+		  git commit -m "Create React Project"
+		  git branch -M main
+		  git remote add origin https://github.com/dvdRiscado/React-Skate4ever.git
+		  git push -u origin main
+
