@@ -18,3 +18,8 @@ Histórico de ações:
 		  git remote add origin https://github.com/dvdRiscado/React-Skate4ever.git
 		  git push -u origin main
 
+         npm install react-router-dom
+         
+         git add .
+         git commit -m "Install React-Router-Dom"
+         git push -u origin main
